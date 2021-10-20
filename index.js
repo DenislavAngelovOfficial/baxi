@@ -13,4 +13,4 @@ client.fetch = require('node-fetch');
     require(`./Handlers/${handler}`)(client);
 });
 
-client.login("ODcwNjUwODQ5MTA0Mzg4MTI2.YQP2yg.-Sc-BOM0aK5sPbbcp-isSO_0PwU")
+client.login("")
